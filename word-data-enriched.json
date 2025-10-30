@@ -1,0 +1,5929 @@
+{
+  "hiragana": [
+    {
+      "kana": "あいだ",
+      "kanji": "間",
+      "definition": "space (between); gap; interval",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "あいて",
+      "kanji": "相手",
+      "definition": "companion; partner; company",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "あおい",
+      "kanji": "青い",
+      "definition": "blue; azure; green",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "あおぞら",
+      "kanji": "青空",
+      "definition": "blue sky",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "あかい",
+      "kanji": "赤い",
+      "definition": "red; crimson; scarlet",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "あける",
+      "kanji": "開ける",
+      "definition": "to open (a door, etc.); to unwrap (e.g. parcel, package); to unlock",
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "あげる",
+      "kanji": "上げる",
+      "definition": "to raise; to elevate; to move something (to a higher place)",
+      "jlpt": [
+        "jlpt-n4",
+        "jlpt-n2",
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "あさごはん",
+      "kanji": "朝ごはん",
+      "definition": "breakfast",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "あした",
+      "kanji": "明日",
+      "definition": "tomorrow; near future",
+      "jlpt": [
+        "jlpt-n4",
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "あそぶ",
+      "kanji": "遊ぶ",
+      "definition": "to play (games, sports); to enjoy oneself; to have a good time",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "あたまがいい",
+      "kanji": "頭がいい",
+      "definition": "bright; intelligent; clever",
+      "jlpt": [],
+      "isCommon": false
+    },
+    {
+      "kana": "あつめる",
+      "kanji": "集める",
+      "definition": "to collect; to assemble; to gather",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "あなた",
+      "kanji": "貴方",
+      "definition": "you; dear; honey",
+      "jlpt": [
+        "jlpt-n1",
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "あのかた",
+      "kanji": "あの方",
+      "definition": "that gentleman; that lady; he",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "あびる",
+      "kanji": "浴びる",
+      "definition": "to dash over oneself (e.g. water); to take (e.g. shower); to bask in (e.g. the sun)",
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "あぶない",
+      "kanji": "危ない",
+      "definition": "dangerous; risky; hazardous",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "あまい",
+      "kanji": "甘い",
+      "definition": "sweet-tasting; sweet; sugary",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "あまり",
+      "kanji": "余り",
+      "definition": "remainder; remnant; rest",
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n1",
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "あらう",
+      "kanji": "洗う",
+      "definition": "to wash; to cleanse; to rinse",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "あるく",
+      "kanji": "歩く",
+      "definition": "to walk",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "いいえ",
+      "kanji": "いいえ",
+      "definition": "no; you're welcome; not at all",
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n1",
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "いがあるのですが",
+      "kanji": "胃",
+      "definition": "stomach; Chinese \"stomach\" constellation (one of the 28 mansions); Stomach",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "いがい",
+      "kanji": "以外",
+      "definition": "excluding; except (for); apart from",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "いかが",
+      "kanji": "如何",
+      "definition": "how; in what way; how about",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "いかがですか",
+      "kanji": "如何",
+      "definition": "how; in what way; how about",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "いがく",
+      "kanji": "医学",
+      "definition": "medical science; medicine; Medicine",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "いくつ",
+      "kanji": "幾つ",
+      "definition": "how many; how old",
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "いくら",
+      "kanji": "幾ら",
+      "definition": "how much; something over; and something",
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "いけない",
+      "kanji": "いけない",
+      "definition": "bad; wrong; naughty",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "いけん",
+      "kanji": "意見",
+      "definition": "opinion; view; comment",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "いさん",
+      "kanji": "遺産",
+      "definition": "inheritance; bequest; legacy",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "いそぐ",
+      "kanji": "急ぐ",
+      "definition": "to hurry; to rush; to hasten",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "いちいちきゅう",
+      "kanji": "一々",
+      "definition": "one-by-one; separately; every single",
+      "jlpt": [
+        "jlpt-n2",
+        "jlpt-n1"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "いちど",
+      "kanji": "一度",
+      "definition": "once; one time; on one occasion",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "いちども",
+      "kanji": "一度も",
+      "definition": "(not) even once; (not) ever",
+      "jlpt": [],
+      "isCommon": false
+    },
+    {
+      "kana": "いちばん",
+      "kanji": "一番",
+      "definition": "number one; first; first place",
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "いつか",
+      "kanji": "５日",
+      "definition": "5th day of the month; five days; Itsuka",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "いっしょに",
+      "kanji": "一緒に",
+      "definition": "together (with); at the same time; in one lump",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "いつでも",
+      "kanji": "何時でも",
+      "definition": "always; all the time; at all times",
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n1"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "いっぱい",
+      "kanji": "一杯",
+      "definition": "one cup (of); one glass (of); one bowl (of)",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "いつも",
+      "kanji": "何時も",
+      "definition": "always; all the time; at all times",
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n1",
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "いない",
+      "kanji": "以内",
+      "definition": "within; inside of; less than",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "いなか",
+      "kanji": "田舎",
+      "definition": "rural area; countryside; the sticks",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "いらっしゃいます",
+      "kanji": "いらっしゃいます",
+      "definition": "to come; to go; to be (somewhere)",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "いろいろな",
+      "kanji": "色々",
+      "definition": "various; a variety of; all sorts of",
+      "jlpt": [
+        "jlpt-n1",
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "うけつけ",
+      "kanji": "受付",
+      "definition": "reception (desk); information desk; receptionist",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "うごく",
+      "kanji": "動く",
+      "definition": "to move; to stir; to shift",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "うたう",
+      "kanji": "歌う",
+      "definition": "to sing; to sing of (love, beauty, etc.) in a poem; to express in the form of a poem",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "うちゅう",
+      "kanji": "宇宙",
+      "definition": "universe; cosmos; space",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "うりば",
+      "kanji": "売り場",
+      "definition": "selling area; counter; section",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "えいが",
+      "kanji": "映画",
+      "definition": "movie; film; motion picture",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "えきまえ",
+      "kanji": "駅前",
+      "definition": "in front of a station; Ekimae",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "おいしい",
+      "kanji": "美味しい",
+      "definition": "good(-tasting); nice; delicious",
+      "jlpt": [
+        "jlpt-n1",
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "おいのり",
+      "kanji": "お祈り",
+      "definition": "prayer; supplication",
+      "jlpt": [],
+      "isCommon": false
+    },
+    {
+      "kana": "おかげさまで",
+      "kanji": "お陰様で",
+      "definition": "thankfully; fortunately; luckily",
+      "jlpt": [
+        "jlpt-n2",
+        "jlpt-n1"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "おかず",
+      "kanji": "お菜",
+      "definition": "small dish (usu. one of several accompanying rice); side dish; fill",
+      "jlpt": [
+        "jlpt-n2",
+        "jlpt-n1"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "おきる",
+      "kanji": "起きる",
+      "definition": "to get up; to rise; to blaze up (fire)",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "おくさん",
+      "kanji": "奥さん",
+      "definition": "wife; your wife; his wife",
+      "jlpt": [
+        "jlpt-n2",
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "おくじょう",
+      "kanji": "屋上",
+      "definition": "rooftop",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "おくりもの",
+      "kanji": "贈り物",
+      "definition": "present; gift; Gift",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "おくる",
+      "kanji": "送る",
+      "definition": "to send; to dispatch; to forward",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "おさがしですか",
+      "kanji": "長",
+      "definition": "head; chief; leader",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "isCommon": false
+    },
+    {
+      "kana": "おじいさん",
+      "kanji": "お祖父さん",
+      "definition": "grandfather; male senior-citizen; old man",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "おしえる",
+      "kanji": "教える",
+      "definition": "to teach; to instruct; to tell",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "おせわになりました",
+      "kanji": "お世話",
+      "definition": "help; aid; assistance",
+      "jlpt": [],
+      "isCommon": false
+    },
+    {
+      "kana": "おそい",
+      "kanji": "遅い",
+      "definition": "slow; late; too late",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "おだいじに",
+      "kanji": "お大事に",
+      "definition": "take care of yourself; get well soon",
+      "jlpt": [
+        "jlpt-n2",
+        "jlpt-n1"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "おっと",
+      "kanji": "夫",
+      "definition": "husband",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "おでこ",
+      "kanji": "お凸",
+      "definition": "brow; forehead; prominent forehead",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "おととい",
+      "kanji": "一昨日",
+      "definition": "day before yesterday; Daytime (astronomy)",
+      "jlpt": [
+        "jlpt-n2",
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "おととし",
+      "kanji": "一昨年",
+      "definition": "year before last",
+      "jlpt": [
+        "jlpt-n2",
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "おとな",
+      "kanji": "大人",
+      "definition": "adult; grown-up; Adult",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "おなかがすく",
+      "kanji": "お腹が空く",
+      "definition": "to get hungry; to become hungry",
+      "jlpt": [],
+      "isCommon": false
+    },
+    {
+      "kana": "おなまえ",
+      "kanji": "お名前",
+      "definition": "name",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "おねがいします",
+      "kanji": "お願いします",
+      "definition": "please",
+      "jlpt": [
+        "jlpt-n2",
+        "jlpt-n1"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "おばあさん",
+      "kanji": "お祖母さん",
+      "definition": "grandmother; old woman; female senior citizen",
+      "jlpt": [
+        "jlpt-n1",
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "おばさん",
+      "kanji": "伯母さん",
+      "definition": "aunt",
+      "jlpt": [
+        "jlpt-n2",
+        "jlpt-n5"
+      ],
+      "isCommon": false
+    },
+    {
+      "kana": "おひきだしですか",
+      "kanji": "尾",
+      "definition": "tail (of an animal); cauda; tail (of a kite, etc.)",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "おもい",
+      "kanji": "重い",
+      "definition": "heavy; weighty; heavy (feeling)",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "おもいだす",
+      "kanji": "思い出す",
+      "definition": "to recall; to remember; to recollect",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "おもう",
+      "kanji": "思う",
+      "definition": "to think; to consider; to believe",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "おもちゃ",
+      "kanji": "玩具",
+      "definition": "toy; (person or thing treated as a) plaything; Toy",
+      "jlpt": [
+        "jlpt-n4",
+        "jlpt-n1"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "おもて",
+      "kanji": "表",
+      "definition": "surface; face (i.e. the visible side of an object); front (of a building, etc.)",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "およぐ",
+      "kanji": "泳ぐ",
+      "definition": "to swim; to struggle through (a crowd); to make one's way through the world",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "おりる",
+      "kanji": "降りる",
+      "definition": "to descend (e.g. a mountain); to go down; to come down",
+      "jlpt": [
+        "jlpt-n4",
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "おろす",
+      "kanji": "下ろす",
+      "definition": "to take down; to bring down; to lower (a hand, flag, shutter, etc.)",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "おわり",
+      "kanji": "終わり",
+      "definition": "end; ending; close",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "おわる",
+      "kanji": "終わる",
+      "definition": "to end; to come to an end; to finish",
+      "jlpt": [
+        "jlpt-n1",
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "おんがく",
+      "kanji": "音楽",
+      "definition": "music; Music",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "おんせん",
+      "kanji": "温泉",
+      "definition": "hot spring; onsen; hot spring resort",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "がいい",
+      "kanji": "外衣",
+      "definition": "outer garment",
+      "jlpt": [],
+      "isCommon": false
+    },
+    {
+      "kana": "かいがい",
+      "kanji": "海外",
+      "definition": "foreign; abroad; overseas",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "かいがん",
+      "kanji": "海岸",
+      "definition": "coast; beach; Kaigan",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "かいぎ",
+      "kanji": "会議",
+      "definition": "meeting; conference; session",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "かいぎしつ",
+      "kanji": "会議室",
+      "definition": "conference room; council room; Conference hall",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "がいこく",
+      "kanji": "外国",
+      "definition": "foreign country",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "かいしゃ",
+      "kanji": "会社",
+      "definition": "company; corporation; firm",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "かいじょう",
+      "kanji": "会場",
+      "definition": "assembly hall; meeting place; venue",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "がいたい",
+      "kanji": "外帯",
+      "definition": "area on the convex side of a mountain arc or a crescent-shaped archipelago; area of southwestern Japan south of the Median Tectonic Line",
+      "jlpt": [],
+      "isCommon": false
+    },
+    {
+      "kana": "かいだん",
+      "kanji": "階段",
+      "definition": "stairs; stairway; staircase",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "かいも",
+      "kanji": "買い物",
+      "definition": "shopping; purchased goods; Shopping",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "かえす",
+      "kanji": "返す",
+      "definition": "to return (something); to restore; to put back",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "かえる",
+      "kanji": "帰る",
+      "definition": "to return; to come home; to go home",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "かがく",
+      "kanji": "科学",
+      "definition": "science; to think about scientifically; to think in terms of science",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "かがみ",
+      "kanji": "鏡",
+      "definition": "mirror; looking-glass; barrel head",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "かかる",
+      "kanji": "掛かる",
+      "definition": "to take (a resource, e.g. time or money); to hang; to come into view",
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "がくせい",
+      "kanji": "学生",
+      "definition": "student (esp. a university student)",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "がくぶ",
+      "kanji": "学部",
+      "definition": "department (of a university); faculty; school",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "かけですか",
+      "kanji": "賭け",
+      "definition": "bet; wager; stake",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "かける",
+      "kanji": "掛ける",
+      "definition": "to hang up (e.g. a coat, a picture on the wall); to let hang; to suspend (from)",
+      "jlpt": [
+        "jlpt-n4",
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "かぞく",
+      "kanji": "家族",
+      "definition": "family; Family",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "かたち",
+      "kanji": "形",
+      "definition": "form; shape; figure",
+      "jlpt": [
+        "jlpt-n4",
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "かっこいい",
+      "kanji": "格好いい",
+      "definition": "attractive; good-looking; stylish",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "がっこう",
+      "kanji": "学校",
+      "definition": "school; Gakkou; School",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "かなり",
+      "kanji": "可也",
+      "definition": "considerably; fairly; quite",
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n1"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "かのじょ",
+      "kanji": "彼女",
+      "definition": "she; her; girlfriend",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "かびん",
+      "kanji": "花瓶",
+      "definition": "(flower) vase; Vase",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "かぶき",
+      "kanji": "歌舞伎",
+      "definition": "kabuki; traditional form of drama and music performed by male actors wearing makeup mainly in white and red; Kabuki",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "かぶる",
+      "kanji": "被る",
+      "definition": "to put on (one's head); to wear; to have on",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "かみがた",
+      "kanji": "髪型",
+      "definition": "hair style; coiffure; hairdo",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "かみなり",
+      "kanji": "雷",
+      "definition": "lightning; thunder; thunderbolt",
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n1"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "かめる",
+      "kanji": "かめる",
+      "definition": "Cameroon; Cameroon; Cameroun",
+      "jlpt": [],
+      "isCommon": false
+    },
+    {
+      "kana": "からい",
+      "kanji": "辛い",
+      "definition": "spicy; hot; salty",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "からきました",
+      "kanji": "からきました",
+      "definition": "from (e.g. time, place, numerical quantity); since; from (originator)",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "からだ",
+      "kanji": "体",
+      "definition": "body; torso; trunk",
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n1",
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "かりる",
+      "kanji": "借りる",
+      "definition": "to borrow; to rent; to hire",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "かるい",
+      "kanji": "軽い",
+      "definition": "light (i.e. not heavy); feeling light (i.e. offering little resistance, moving easily); light (i.e. of foot)",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "かわいい",
+      "kanji": "可愛い",
+      "definition": "cute; adorable; charming",
+      "jlpt": [
+        "jlpt-n1",
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "かんがえる",
+      "kanji": "考える",
+      "definition": "to think (about, of); to think over; to ponder",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "かんけい",
+      "kanji": "関係",
+      "definition": "relation; relationship; connection",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "かんづめ",
+      "kanji": "缶詰",
+      "definition": "canned food; tinned food; confining someone (e.g. so they can concentrate on work)",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "がんばる",
+      "kanji": "頑張る",
+      "definition": "to persevere; to persist; to keep at it",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "きいろい",
+      "kanji": "黄色い",
+      "definition": "yellow; high-pitched (voice); shrill",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "きおん",
+      "kanji": "気温",
+      "definition": "(air) temperature",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "きかい",
+      "kanji": "機械",
+      "definition": "machine; mechanism; instrument",
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n2"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ぎじゅつ",
+      "kanji": "技術",
+      "definition": "technology; engineering; technique",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "きせつ",
+      "kanji": "季節",
+      "definition": "season; time of year; Season",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "きそく",
+      "kanji": "規則",
+      "definition": "rule; regulation",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "きっさてん",
+      "kanji": "喫茶店",
+      "definition": "coffee shop; tearoom; coffee lounge",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "きって",
+      "kanji": "切手",
+      "definition": "stamp (postage); merchandise certificate; Postage stamp",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "きっと",
+      "kanji": "屹度",
+      "definition": "surely; undoubtedly; almost certainly",
+      "jlpt": [
+        "jlpt-n4",
+        "jlpt-n1"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "きっぷ",
+      "kanji": "切符",
+      "definition": "ticket; Ticket",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "きのう",
+      "kanji": "昨日",
+      "definition": "yesterday",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "きぶん",
+      "kanji": "気分",
+      "definition": "feeling; mood; Mood (psychology)",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "きもの",
+      "kanji": "着物",
+      "definition": "kimono; Japanese traditional clothing (esp. full-length); clothing",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "きゅうこう",
+      "kanji": "急行",
+      "definition": "hurrying (to somewhere); rushing; hastening",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "きゅうりょう",
+      "kanji": "給料",
+      "definition": "salary; wages; pay",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "きょう",
+      "kanji": "今日",
+      "definition": "today; this day; these days",
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "きょうかい",
+      "kanji": "教会",
+      "definition": "church; congregation; Christian Church",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "きょうしつ",
+      "kanji": "教室",
+      "definition": "classroom; lecture room; department (in a university)",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "きょうみ",
+      "kanji": "興味",
+      "definition": "interest (in something); curiosity (about something); zest (for)",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "きょく",
+      "kanji": "局",
+      "definition": "bureau; department; office (e.g. post, telephone)",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "きょねん",
+      "kanji": "去年",
+      "definition": "last year",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "きらいな",
+      "kanji": "嫌いなく",
+      "definition": "without discrimination; indiscriminate; without distinction",
+      "jlpt": [],
+      "isCommon": false
+    },
+    {
+      "kana": "きれいな",
+      "kanji": "綺麗な薔薇には棘がある",
+      "definition": "there is no rose without a thorn; every rose has its thorn",
+      "jlpt": [],
+      "isCommon": false
+    },
+    {
+      "kana": "きんえん",
+      "kanji": "禁煙",
+      "definition": "abstaining from smoking; quitting smoking; prohibition of smoking",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "きんがく",
+      "kanji": "金額",
+      "definition": "amount of money; sum",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ぎんこう",
+      "kanji": "銀行",
+      "definition": "bank; banking institution; Bank",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "きんじょ",
+      "kanji": "近所",
+      "definition": "neighbourhood; neighborhood; vicinity",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ぐあい",
+      "kanji": "具合",
+      "definition": "condition; state; health",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "くうき",
+      "kanji": "空気",
+      "definition": "air; atmosphere; mood",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "くうこう",
+      "kanji": "空港",
+      "definition": "airport; Airport",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "くすり",
+      "kanji": "薬",
+      "definition": "medicine; pharmaceuticals; (legal) drugs",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "くちびる",
+      "kanji": "唇",
+      "definition": "lip; lips; Lip",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "くつした",
+      "kanji": "靴下",
+      "definition": "socks; sock; stockings",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "くなる",
+      "kanji": "くなる",
+      "definition": "Cunardo",
+      "jlpt": [],
+      "isCommon": false
+    },
+    {
+      "kana": "ぐらい",
+      "kanji": "ぐらい",
+      "definition": "approximately; about; around",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "くるま",
+      "kanji": "車",
+      "definition": "car; automobile; vehicle",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "くれる",
+      "kanji": "暮れる",
+      "definition": "to get dark; to grow dark; to end (of a day, year, season, etc.)",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "くろい",
+      "kanji": "黒い",
+      "definition": "black; dark; blackish",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "けいざい",
+      "kanji": "経済",
+      "definition": "economy; economics; finance",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "けいたい",
+      "kanji": "形態",
+      "definition": "form; shape; figure",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "けしき",
+      "kanji": "景色",
+      "definition": "scenery; scene; landscape",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "けっこうです",
+      "kanji": "結構",
+      "definition": "splendid; nice; wonderful",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "げんいん",
+      "kanji": "原因",
+      "definition": "cause; origin; source",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "げんかん",
+      "kanji": "玄関",
+      "definition": "entrance; front door; entryway",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "けんきゅうしゃ",
+      "kanji": "研究者",
+      "definition": "researcher",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "げんきん",
+      "kanji": "現金",
+      "definition": "cash; ready money; money on hand",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "けんこう",
+      "kanji": "健康",
+      "definition": "health; healthy; sound",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "げんりょう",
+      "kanji": "原料",
+      "definition": "raw materials; ingredient",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "こうえん",
+      "kanji": "公園",
+      "definition": "(public) park; Park",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "こうがい",
+      "kanji": "郊外",
+      "definition": "suburb; residential area on the outskirt of a city; commuter belt",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "こうくうびん",
+      "kanji": "航空便",
+      "definition": "airmail; air mail; air service",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "こうこう",
+      "kanji": "高校",
+      "definition": "senior high school; high school; Koukou",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "こうじょう",
+      "kanji": "工場",
+      "definition": "factory; plant; mill",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "こうつう",
+      "kanji": "交通",
+      "definition": "traffic; transportation; communication",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "こうばん",
+      "kanji": "交番",
+      "definition": "police box; koban; small neighborhood police station",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "こうむいん",
+      "kanji": "公務員",
+      "definition": "public employee; government employee; public-sector worker",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "こうよう",
+      "kanji": "公用",
+      "definition": "official business; government business; public business",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "こえる",
+      "kanji": "越える",
+      "definition": "to cross over; to cross; to pass through",
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n2"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "こくさい",
+      "kanji": "国際",
+      "definition": "international; diplomatic intercourse; International",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "こくない",
+      "kanji": "国内",
+      "definition": "internal; domestic",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "こころ",
+      "kanji": "心",
+      "definition": "mind; heart; spirit",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ございます",
+      "kanji": "御座います",
+      "definition": "to be; to exist; to be (doing)",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ごしゅじん",
+      "kanji": "ご主人",
+      "definition": "your husband; her husband",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ごぜん",
+      "kanji": "午前",
+      "definition": "morning; a.m.",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "こたえ",
+      "kanji": "答え",
+      "definition": "answer; reply; response",
+      "jlpt": [
+        "jlpt-n4",
+        "jlpt-n1"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ごちゅうもんは",
+      "kanji": "五",
+      "definition": "five; 5",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ことし",
+      "kanji": "今年",
+      "definition": "this year",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ことば",
+      "kanji": "言葉",
+      "definition": "language; dialect; word",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "これから",
+      "kanji": "此れから",
+      "definition": "from now on; after this; in the future",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "こんげつ",
+      "kanji": "今月",
+      "definition": "this month",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "こんしゅう",
+      "kanji": "今週",
+      "definition": "this week",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "こんど",
+      "kanji": "今度",
+      "definition": "this time; now; next time",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "こんばん",
+      "kanji": "今晩",
+      "definition": "tonight; this evening",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "こんや",
+      "kanji": "今夜",
+      "definition": "this evening; tonight",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "さいきん",
+      "kanji": "最近",
+      "definition": "recently; lately; these days",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "さいご",
+      "kanji": "最後",
+      "definition": "end; conclusion; last",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "さいしょ",
+      "kanji": "最初",
+      "definition": "beginning; outset; first",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "さいちゅう",
+      "kanji": "最中",
+      "definition": "(in) the middle of; (in) the midst of; (in) the course of",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "さいふ",
+      "kanji": "財布",
+      "definition": "wallet; purse; coin purse",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ざいりょう",
+      "kanji": "材料",
+      "definition": "materials; ingredients; material (for a novel, experiment, etc.)",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "さくぶん",
+      "kanji": "作文",
+      "definition": "writing (an essay, prose, etc.); composition; formal writing with little real meaning",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "さくら",
+      "kanji": "桜",
+      "definition": "cherry tree; cherry blossom; fake buyer",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "さっき",
+      "kanji": "先",
+      "definition": "a short while ago; a moment ago; just now",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ざっし",
+      "kanji": "雑誌",
+      "definition": "magazine; journal; periodical",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "さどう",
+      "kanji": "茶道",
+      "definition": "tea ceremony; Way of Tea; sadō",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "さらいげつ",
+      "kanji": "再来月",
+      "definition": "month after next",
+      "jlpt": [
+        "jlpt-n4",
+        "jlpt-n2"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "さらいしゅう",
+      "kanji": "再来週",
+      "definition": "week after next",
+      "jlpt": [
+        "jlpt-n4",
+        "jlpt-n2"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "さらいねん",
+      "kanji": "再来年",
+      "definition": "year after next",
+      "jlpt": [
+        "jlpt-n2",
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "さわる",
+      "kanji": "触る",
+      "definition": "to touch; to feel; to handle",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "さんです",
+      "kanji": "三",
+      "definition": "three; 3",
+      "jlpt": [
+        "jlpt-n1",
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ざんねんですが",
+      "kanji": "残念",
+      "definition": "regrettable; unfortunate; disappointing",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "しあい",
+      "kanji": "試合",
+      "definition": "match; game; bout",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "しかた",
+      "kanji": "仕方",
+      "definition": "way; method; means",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "じかん",
+      "kanji": "時間",
+      "definition": "time; hour; period",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "じこくひょう",
+      "kanji": "時刻表",
+      "definition": "timetable; schedule; Public transport timetable",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "しごと",
+      "kanji": "仕事",
+      "definition": "work; job; labor",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "じしょ",
+      "kanji": "辞書",
+      "definition": "dictionary; lexicon; letter of resignation",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "じしん",
+      "kanji": "地震",
+      "definition": "earthquake; Earthquake",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "しずかな",
+      "kanji": "静か",
+      "definition": "quiet; silent; slow",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "じだい",
+      "kanji": "時代",
+      "definition": "period; epoch; era",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "したぎ",
+      "kanji": "下着",
+      "definition": "underwear; undergarment; underclothes",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "じたく",
+      "kanji": "自宅",
+      "definition": "one's home; one's house",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "しつれいですが",
+      "kanji": "失礼ですが",
+      "definition": "excuse me, but ...; with all due respect",
+      "jlpt": [],
+      "isCommon": false
+    },
+    {
+      "kana": "じてん",
+      "kanji": "辞典",
+      "definition": "dictionary; lexicon; Dictionary",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "じてんしゃ",
+      "kanji": "自転車",
+      "definition": "bicycle; bike; Bicycle",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "じどうしゃ",
+      "kanji": "自動車",
+      "definition": "car; automobile; motorcar",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "じどうはんばいき",
+      "kanji": "自動販売機",
+      "definition": "vending machine; Vending machine",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "じぶんで",
+      "kanji": "自分で",
+      "definition": "by myself; in person; by oneself",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "じむしょ",
+      "kanji": "事務所",
+      "definition": "office",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "しめる",
+      "kanji": "締める",
+      "definition": "to tie; to fasten; to tighten",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "しやくしょ",
+      "kanji": "市役所",
+      "definition": "municipal office; council; city hall",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "しゃしん",
+      "kanji": "写真",
+      "definition": "photograph; photo; picture",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "しゃちょう",
+      "kanji": "社長",
+      "definition": "company president; manager; director",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "しゅうかん",
+      "kanji": "習慣",
+      "definition": "habit; (social) custom; practice",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "じゅうしょ",
+      "kanji": "住所",
+      "definition": "address (of a home, business, etc.); residence; domicile",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "じゅうどう",
+      "kanji": "柔道",
+      "definition": "judo; Judo",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "しゅうまつ",
+      "kanji": "週末",
+      "definition": "weekend; Workweek and weekend",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "じゅぎょう",
+      "kanji": "授業",
+      "definition": "lesson; class; teaching",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "じゅく",
+      "kanji": "塾",
+      "definition": "cram school; private tutoring school; juku",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "しゅくだい",
+      "kanji": "宿題",
+      "definition": "homework; assignment; pending issue",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "しゅしょう",
+      "kanji": "首相",
+      "definition": "prime minister; chancellor (Germany, Austria, etc.); premier",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "しゅじん",
+      "kanji": "主人",
+      "definition": "head (of a household); proprietor (of a store); proprietress",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "しゅみ",
+      "kanji": "趣味",
+      "definition": "hobby; pastime; tastes",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "じょう",
+      "kanji": "嬢",
+      "definition": "unmarried woman; Miss; -ess",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "しょうがつ",
+      "kanji": "正月",
+      "definition": "New Year (esp. first three days); first month of the year; January",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "しょうがっこう",
+      "kanji": "小学校",
+      "definition": "primary school; elementary school; grade school",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "じょうずな",
+      "kanji": "上手",
+      "definition": "skillful; skilled; proficient",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "しょうせつ",
+      "kanji": "小説",
+      "definition": "novel; story; (work of) fiction",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "じょうほう",
+      "kanji": "情報",
+      "definition": "information; news; report",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "しょうゆ",
+      "kanji": "醤油",
+      "definition": "soy sauce; soya sauce; shoyu",
+      "jlpt": [
+        "jlpt-n2",
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "しょうらい",
+      "kanji": "将来",
+      "definition": "future; (future) prospects; bringing (from abroad, another region, etc.)",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "しょくどう",
+      "kanji": "食堂",
+      "definition": "dining room; dining hall; cafeteria",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "しょくひん",
+      "kanji": "食品",
+      "definition": "food; food products; foodstuffs",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "じょせい",
+      "kanji": "女性",
+      "definition": "woman; female; feminine gender",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "しょるい",
+      "kanji": "書類",
+      "definition": "document; papers",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "しりょう",
+      "kanji": "資料",
+      "definition": "material; materials; data",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "しろい",
+      "kanji": "白い",
+      "definition": "white",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "しんかんせん",
+      "kanji": "新幹線",
+      "definition": "Shinkansen; bullet train; Shinkansen",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "しんごう",
+      "kanji": "信号",
+      "definition": "signal; signalling; signaling",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "じんこう",
+      "kanji": "人口",
+      "definition": "population; common talk; Population",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "じんじゃ",
+      "kanji": "神社",
+      "definition": "Shinto shrine; Shinto shrine",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "しんせき",
+      "kanji": "親戚",
+      "definition": "relative; relation; kin",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "しんちょう",
+      "kanji": "慎重",
+      "definition": "careful; cautious; prudent",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "しんぶん",
+      "kanji": "新聞",
+      "definition": "newspaper; Newspaper",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "しんゆう",
+      "kanji": "親友",
+      "definition": "close friend; bosom friend; buddy",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "すいえい",
+      "kanji": "水泳",
+      "definition": "swimming; Human swimming",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "すいどう",
+      "kanji": "水道",
+      "definition": "water supply; water service; waterworks",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "すうがく",
+      "kanji": "数学",
+      "definition": "mathematics; Mathematics",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ずかしい",
+      "kanji": "図",
+      "definition": "drawing; picture; diagram",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "すごい",
+      "kanji": "凄い",
+      "definition": "terrible; dreadful; amazing (e.g. of strength)",
+      "jlpt": [
+        "jlpt-n4",
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ずっと",
+      "kanji": "ずっと",
+      "definition": "continuously; the whole time; all the way",
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n2"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "すてきな",
+      "kanji": "すてきな片想い",
+      "definition": "Sixteen Candles (1984 film)",
+      "jlpt": [],
+      "isCommon": false
+    },
+    {
+      "kana": "すてる",
+      "kanji": "捨てる",
+      "definition": "to throw away; to cast away; to dump",
+      "jlpt": [
+        "jlpt-n4",
+        "jlpt-n2"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "すみません",
+      "kanji": "済みません",
+      "definition": "excuse me; pardon me; I'm sorry",
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n1"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "すると",
+      "kanji": "すると",
+      "definition": "(and) then; and; thereupon",
+      "jlpt": [
+        "jlpt-n4",
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "すわる",
+      "kanji": "座る",
+      "definition": "to sit (down); to have a seat; to be seated",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "せいかつ",
+      "kanji": "生活",
+      "definition": "life; living; livelihood",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "せいき",
+      "kanji": "世紀",
+      "definition": "century; era; of the century (e.g. fight of the century)",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "せいじ",
+      "kanji": "政治",
+      "definition": "politics; government; Politics",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "せいせき",
+      "kanji": "成績",
+      "definition": "results; record; grades",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "せいと",
+      "kanji": "生徒",
+      "definition": "pupil; student; schoolchild",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "せいひん",
+      "kanji": "製品",
+      "definition": "manufactured goods; finished goods; product",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "せかい",
+      "kanji": "世界",
+      "definition": "the world; society; the universe",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "せかいじゅう",
+      "kanji": "世界中",
+      "definition": "around the world; throughout the world",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "せきゆ",
+      "kanji": "石油",
+      "definition": "oil; petroleum; kerosene",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "せっけん",
+      "kanji": "石鹸",
+      "definition": "soap; Soap",
+      "jlpt": [
+        "jlpt-n2",
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "せつび",
+      "kanji": "設備",
+      "definition": "equipment; facilities; installation",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "せなか",
+      "kanji": "背中",
+      "definition": "back (of the body); Human back",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "せんしゅ",
+      "kanji": "選手",
+      "definition": "player (of a sport); athlete; team member",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "せんせい",
+      "kanji": "先生",
+      "definition": "teacher; instructor; master",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ぜんぜん",
+      "kanji": "全然",
+      "definition": "(not) at all; (not) in the slightest; wholly",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "せんそう",
+      "kanji": "戦争",
+      "definition": "war; fighting; fierce competition",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "せんぱい",
+      "kanji": "先輩",
+      "definition": "senior (at work or school); superior; elder",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ぜんぶ",
+      "kanji": "全部",
+      "definition": "all; entire; whole",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ぜんぶで",
+      "kanji": "全部",
+      "definition": "all; entire; whole",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "せんもん",
+      "kanji": "専門",
+      "definition": "speciality; specialty; special subject of study",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "そうです",
+      "kanji": "そうです",
+      "definition": "that is so; that is right; it looks to me",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "そうですね",
+      "kanji": "そうですね",
+      "definition": "that's so, isn't it",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "そして",
+      "kanji": "而して",
+      "definition": "and; and then; thus",
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n1",
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "そのまま",
+      "kanji": "其のまま",
+      "definition": "without change; as is; just like",
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n1"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "それじゃ",
+      "kanji": "それじゃ",
+      "definition": "well, ...; right, ...; now, ...",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "それで",
+      "kanji": "其れで",
+      "definition": "so; therefore; and",
+      "jlpt": [
+        "jlpt-n4",
+        "jlpt-n1"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "それとも",
+      "kanji": "其れとも",
+      "definition": "or; or else",
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n1"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "それに",
+      "kanji": "其れに",
+      "definition": "besides; in addition; also",
+      "jlpt": [
+        "jlpt-n4",
+        "jlpt-n1"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "そろそろ",
+      "kanji": "そろそろ",
+      "definition": "soon; before long; any time now",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "そんなに",
+      "kanji": "そんなに",
+      "definition": "so much; so; like that",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "たいおんけい",
+      "kanji": "体温計",
+      "definition": "(clinical) thermometer; Medical thermometer",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "たいかい",
+      "kanji": "大会",
+      "definition": "mass meeting; convention; rally",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "だいがく",
+      "kanji": "大学",
+      "definition": "university; college; former imperial university of Japan (established under the ritsuryō system for the training of government administrators)",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "だいがくせい",
+      "kanji": "大学生",
+      "definition": "university student; college student",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "たいしかん",
+      "kanji": "大使館",
+      "definition": "embassy; Diplomatic mission",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "たいじゅう",
+      "kanji": "体重",
+      "definition": "(body) weight; Body weight",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "だいじょうぶ",
+      "kanji": "大丈夫",
+      "definition": "safe; secure; sound",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "たいせつな",
+      "kanji": "大切な人",
+      "definition": "special someone; special person; precious one",
+      "jlpt": [],
+      "isCommon": false
+    },
+    {
+      "kana": "だいたい",
+      "kanji": "大体",
+      "definition": "generally; on the whole; mostly",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "たいてい",
+      "kanji": "大抵",
+      "definition": "mostly; ordinarily; usually",
+      "jlpt": [
+        "jlpt-n4",
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "だいとうりょう",
+      "kanji": "大統領",
+      "definition": "president (of a country); big man; boss",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "だいどころ",
+      "kanji": "台所",
+      "definition": "kitchen; financial situation; finances",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "だいぶ",
+      "kanji": "大分",
+      "definition": "considerably; greatly; a lot",
+      "jlpt": [
+        "jlpt-n4",
+        "jlpt-n2"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "たいふう",
+      "kanji": "台風",
+      "definition": "typhoon; hurricane; Typhoon",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "たいへんな",
+      "kanji": "大変",
+      "definition": "very; greatly; terribly",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "たいよう",
+      "kanji": "太陽",
+      "definition": "Sun; Sun",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "だから",
+      "kanji": "だから",
+      "definition": "so; therefore; accordingly",
+      "jlpt": [
+        "jlpt-n4",
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "たくさん",
+      "kanji": "沢山",
+      "definition": "a lot; lots; plenty",
+      "jlpt": [
+        "jlpt-n1",
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "たたみ",
+      "kanji": "畳",
+      "definition": "tatami mat; Japanese straw floor coverings",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "たちいりきんし",
+      "kanji": "立ち入り禁止",
+      "definition": "No Entry; No Trespassing; No Admittance",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "たてもの",
+      "kanji": "建物",
+      "definition": "building",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "たのしい",
+      "kanji": "楽しい",
+      "definition": "enjoyable; fun; pleasant",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "たばこ",
+      "kanji": "煙草",
+      "definition": "tobacco; cigarette; cigar",
+      "jlpt": [
+        "jlpt-n1",
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "たぶん",
+      "kanji": "多分",
+      "definition": "probably; likely; perhaps",
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "たべもの",
+      "kanji": "食べ物",
+      "definition": "food",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "たまに",
+      "kanji": "偶に",
+      "definition": "occasionally; once in a while; now and then",
+      "jlpt": [
+        "jlpt-n4",
+        "jlpt-n1"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "だめです",
+      "kanji": "駄目",
+      "definition": "no good; not serving its purpose; useless",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "たりる",
+      "kanji": "足りる",
+      "definition": "to be sufficient; to be enough; to be worth doing",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "たんじょうび",
+      "kanji": "誕生日",
+      "definition": "birthday; Birthday",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "だんせい",
+      "kanji": "男性",
+      "definition": "man; male; masculine gender",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "だんだん",
+      "kanji": "段々",
+      "definition": "gradually; by degrees; little by little",
+      "jlpt": [
+        "jlpt-n1",
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "だんぼう",
+      "kanji": "暖房",
+      "definition": "(indoor) heating",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ちかい",
+      "kanji": "近い",
+      "definition": "near; close; short (distance)",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ちがいます",
+      "kanji": "違う",
+      "definition": "to differ (from); to be different; to be distinct",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ちかてつ",
+      "kanji": "地下鉄",
+      "definition": "subway; metro; underground (railway)",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ちから",
+      "kanji": "力",
+      "definition": "force; strength; might",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ちきゅう",
+      "kanji": "地球",
+      "definition": "Earth; the globe; Earth",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ちっとも",
+      "kanji": "些とも",
+      "definition": "(not) at all; (not) a bit; (not) in the least",
+      "jlpt": [
+        "jlpt-n4",
+        "jlpt-n1"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ちゃわん",
+      "kanji": "茶碗",
+      "definition": "rice bowl; tea cup; teacup",
+      "jlpt": [
+        "jlpt-n2",
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ちゃん",
+      "kanji": "ちゃん",
+      "definition": "suffix for familiar person",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ちゅう",
+      "kanji": "注",
+      "definition": "annotation; explanatory note; comment",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ちゅうがっこう",
+      "kanji": "中学校",
+      "definition": "junior high school; middle school; lower secondary school",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ちゅうしゃじょう",
+      "kanji": "駐車場",
+      "definition": "parking lot; car park; carpark",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ちょうし",
+      "kanji": "調子",
+      "definition": "tune; tone; key",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ちょくせつ",
+      "kanji": "直接",
+      "definition": "direct; immediate; personal",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ちょっと",
+      "kanji": "一寸",
+      "definition": "a little; a bit; slightly",
+      "jlpt": [
+        "jlpt-n1",
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "つかう",
+      "kanji": "使う",
+      "definition": "to use (a tool, method, etc.); to make use of; to put to use",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "つかる",
+      "kanji": "浸かる",
+      "definition": "to be submerged; to be soaked; to be pickled",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "つかれる",
+      "kanji": "疲れる",
+      "definition": "to get tired; to tire; to get fatigued",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "つぎの",
+      "kanji": "次のように",
+      "definition": "in the following manner; as follows",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "つくえ",
+      "kanji": "机",
+      "definition": "desk; Desk",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "つくる",
+      "kanji": "作る",
+      "definition": "to make; to produce; to manufacture",
+      "jlpt": [
+        "jlpt-n2",
+        "jlpt-n1",
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "つける",
+      "kanji": "付ける",
+      "definition": "to attach; to join; to connect",
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n2",
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "つごう",
+      "kanji": "都合",
+      "definition": "circumstances; condition; convenience",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "つごうがいい",
+      "kanji": "都合がいい",
+      "definition": "convenient",
+      "jlpt": [],
+      "isCommon": false
+    },
+    {
+      "kana": "つごうがわるい",
+      "kanji": "都合が悪い",
+      "definition": "inconvenient",
+      "jlpt": [],
+      "isCommon": false
+    },
+    {
+      "kana": "つなみ",
+      "kanji": "津波",
+      "definition": "tsunami; tidal wave; Tsunami",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "つまらない",
+      "kanji": "詰らない",
+      "definition": "dull; uninteresting; boring",
+      "jlpt": [
+        "jlpt-n1",
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "つめたい",
+      "kanji": "冷たい",
+      "definition": "cold (to the touch); chilly; icy",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "つれていく",
+      "kanji": "連れて行く",
+      "definition": "to take (someone to a place); to take (someone) with one; to take along",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "つれてくる",
+      "kanji": "連れてくる",
+      "definition": "to bring someone along",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "ていしょく",
+      "kanji": "定食",
+      "definition": "set meal; special (of the day); Table d'hôte",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ている",
+      "kanji": "ている",
+      "definition": "tail",
+      "jlpt": [],
+      "isCommon": false
+    },
+    {
+      "kana": "てがみ",
+      "kanji": "手紙",
+      "definition": "letter; note; Letter (message)",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "できる",
+      "kanji": "出来る",
+      "definition": "to be able to do; to be possible; to be permitted (to do)",
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "でございます",
+      "kanji": "で御座います",
+      "definition": "be; is",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "ですから",
+      "kanji": "ですから",
+      "definition": "so; therefore; accordingly",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "てつだう",
+      "kanji": "手伝う",
+      "definition": "to help; to assist; to aid",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "てぶくろ",
+      "kanji": "手袋",
+      "definition": "glove; mitten; mitt",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "てんいん",
+      "kanji": "店員",
+      "definition": "employee (of a store); shop assistant; clerk",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "てんき",
+      "kanji": "天気",
+      "definition": "weather; fair weather; fine weather",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "でんき",
+      "kanji": "電気",
+      "definition": "electricity; (electric) light; Electricity",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "てんきですね",
+      "kanji": "天気",
+      "definition": "weather; fair weather; fine weather",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "でんげん",
+      "kanji": "電源",
+      "definition": "source of electricity; electrical power; power (button on TV, etc.)",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "でんしゃ",
+      "kanji": "電車",
+      "definition": "train; electric train; Electric multiple unit",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "でんわ",
+      "kanji": "電話",
+      "definition": "telephone call; phone call; telephone (device)",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "どうぐ",
+      "kanji": "道具",
+      "definition": "tool; implement; instrument",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "どうして",
+      "kanji": "如何して",
+      "definition": "how; in what way; by what means",
+      "jlpt": [
+        "jlpt-n1",
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "どうしましたか",
+      "kanji": "銅",
+      "definition": "copper (Cu); bronze (medal); Copper",
+      "jlpt": [
+        "jlpt-n2",
+        "jlpt-n1"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "とうとう",
+      "kanji": "到頭",
+      "definition": "finally; at last; in the end",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "どうぶつ",
+      "kanji": "動物",
+      "definition": "animal; Animal",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "どうぶつえん",
+      "kanji": "動物園",
+      "definition": "zoo; zoological gardens; Doubutsuen",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "どうも",
+      "kanji": "どうも",
+      "definition": "thank you; thanks; much (thanks)",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "どうやって",
+      "kanji": "どうやって",
+      "definition": "how; in what way; by what means",
+      "jlpt": [],
+      "isCommon": false
+    },
+    {
+      "kana": "とおい",
+      "kanji": "遠い",
+      "definition": "far; distant; far away",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ときどき",
+      "kanji": "時々",
+      "definition": "sometimes; occasionally; at times",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "どくしん",
+      "kanji": "独身",
+      "definition": "unmarried; single; Single person",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "とくに",
+      "kanji": "特に",
+      "definition": "particularly; especially; in particular",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ところ",
+      "kanji": "所",
+      "definition": "place; spot; scene",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ところで",
+      "kanji": "所で",
+      "definition": "by the way; incidentally; well",
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n1"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "としょかん",
+      "kanji": "図書館",
+      "definition": "library; Library",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "とちゅう",
+      "kanji": "途中",
+      "definition": "on the way; en route; in the middle of",
+      "jlpt": [
+        "jlpt-n4",
+        "jlpt-n1"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "どちら",
+      "kanji": "何方",
+      "definition": "which way; which direction; where",
+      "jlpt": [
+        "jlpt-n1",
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "どちらも",
+      "kanji": "何方も",
+      "definition": "both; (not) either",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "どっち",
+      "kanji": "何方",
+      "definition": "which way; which direction; where",
+      "jlpt": [
+        "jlpt-n1",
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "とても",
+      "kanji": "迚も",
+      "definition": "very; awfully; exceedingly",
+      "jlpt": [
+        "jlpt-n1",
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "どなた",
+      "kanji": "何方",
+      "definition": "who",
+      "jlpt": [
+        "jlpt-n1",
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "とまる",
+      "kanji": "止まる",
+      "definition": "to stop (moving); to come to a stop; to stop (doing, working, being supplied)",
+      "jlpt": [
+        "jlpt-n2",
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "どろぼう",
+      "kanji": "泥棒",
+      "definition": "thief; burglar; robber",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "どんどん",
+      "kanji": "どんどん",
+      "definition": "drumming (noise); beating; pounding",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "どんな",
+      "kanji": "どんな",
+      "definition": "what kind of; what sort of; what",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "なおす",
+      "kanji": "直す",
+      "definition": "to repair; to mend; to fix",
+      "jlpt": [
+        "jlpt-n4",
+        "jlpt-n2"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "なかなか",
+      "kanji": "中々",
+      "definition": "very; considerably; easily",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "なくす",
+      "kanji": "無くす",
+      "definition": "to lose (something); to get rid of; to eliminate",
+      "jlpt": [
+        "jlpt-n2",
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "なみだ",
+      "kanji": "涙",
+      "definition": "tear; tears; lachrymal secretion",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ならう",
+      "kanji": "習う",
+      "definition": "to take lessons in; to be taught; to learn (from a teacher)",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "なるほど",
+      "kanji": "成る程",
+      "definition": "I see; that's right; indeed",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "なんがつ",
+      "kanji": "何月",
+      "definition": "what month",
+      "jlpt": [],
+      "isCommon": false
+    },
+    {
+      "kana": "なんにん",
+      "kanji": "何人",
+      "definition": "how many people; a number of people",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "にいい",
+      "kanji": "にいい",
+      "definition": "(definition not found)",
+      "jlpt": [],
+      "isCommon": false
+    },
+    {
+      "kana": "にぎやかな",
+      "kanji": "賑やか",
+      "definition": "bustling; busy; crowded",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "について",
+      "kanji": "に就いて",
+      "definition": "about; on; regarding",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "にっき",
+      "kanji": "日記",
+      "definition": "diary; journal; Diary",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "にほんご",
+      "kanji": "日本語",
+      "definition": "Japanese (language); Japanese language",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "にもつ",
+      "kanji": "荷物",
+      "definition": "luggage; baggage; package",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "にんき",
+      "kanji": "人気",
+      "definition": "popularity; public favor; condition (e.g. market)",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ねだん",
+      "kanji": "値段",
+      "definition": "price; cost",
+      "jlpt": [
+        "jlpt-n4",
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ねむい",
+      "kanji": "眠い",
+      "definition": "sleepy; drowsy; somnolent",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ねんがじょう",
+      "kanji": "年賀状",
+      "definition": "New Year's card",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "のどがかわく",
+      "kanji": "喉が渇く",
+      "definition": "to be thirsty",
+      "jlpt": [],
+      "isCommon": false
+    },
+    {
+      "kana": "のぼる",
+      "kanji": "上る",
+      "definition": "to ascend; to go up; to climb",
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n2",
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "のみもの",
+      "kanji": "飲み物",
+      "definition": "drink; beverage",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "のりかえる",
+      "kanji": "乗り換える",
+      "definition": "to transfer (trains); to change (bus, train); to change (to another ideology, party, company, etc.)",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "のりば",
+      "kanji": "乗り場",
+      "definition": "place for boarding vehicles; bus stop; bus terminal",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "はいしゃ",
+      "kanji": "歯医者",
+      "definition": "dentist",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "はいゆう",
+      "kanji": "俳優",
+      "definition": "actor; actress; player",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "はがき",
+      "kanji": "葉書",
+      "definition": "postcard; memo; note",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "はじまる",
+      "kanji": "始まる",
+      "definition": "to begin; to start; to commence",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "はじめ",
+      "kanji": "始め",
+      "definition": "beginning; start; outset",
+      "jlpt": [
+        "jlpt-n1",
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "はじめて",
+      "kanji": "初めて",
+      "definition": "for the first time; only after ... is it ...; only when ... do you ...",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "はじめに",
+      "kanji": "初めに",
+      "definition": "first; firstly; first of all",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "はじめる",
+      "kanji": "始める",
+      "definition": "to start; to begin; to commence",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ばしょ",
+      "kanji": "場所",
+      "definition": "place; location; spot",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "はちょっと",
+      "kanji": "はちょっと",
+      "definition": "indicates sentence topic; indicates contrast with another option (stated or unstated); adds emphasis",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "はなび",
+      "kanji": "花火",
+      "definition": "fireworks; Fireworks",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "はなみ",
+      "kanji": "花見",
+      "definition": "cherry blossom viewing; flower viewing; Hanami",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "はやい",
+      "kanji": "早い",
+      "definition": "fast; quick; rapid",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "はやく",
+      "kanji": "早く",
+      "definition": "early; soon; quickly",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "はやし",
+      "kanji": "林",
+      "definition": "wood; woods; forest",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "はらう",
+      "kanji": "払う",
+      "definition": "to pay (e.g. money, bill); to brush off; to wipe away",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ばんぐみ",
+      "kanji": "番組",
+      "definition": "program (e.g. TV); programme; Bangumi",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ばんごう",
+      "kanji": "番号",
+      "definition": "number; series of digits",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ばんごはん",
+      "kanji": "晩御飯",
+      "definition": "dinner; evening meal",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ばんせん",
+      "kanji": "番線",
+      "definition": "track number; platform number; wire gauge",
+      "jlpt": [],
+      "isCommon": false
+    },
+    {
+      "kana": "はんぶん",
+      "kanji": "半分",
+      "definition": "half",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ひこうき",
+      "kanji": "飛行機",
+      "definition": "airplane; aeroplane; plane",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "びじゅつ",
+      "kanji": "美術",
+      "definition": "art; fine arts",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "びじゅつかん",
+      "kanji": "美術館",
+      "definition": "art museum; art gallery; Bijutsukan",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ひじょうぐち",
+      "kanji": "非常口",
+      "definition": "emergency exit; Emergency exit",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "ひっこし",
+      "kanji": "引っ越し",
+      "definition": "moving (dwelling, office, etc.); changing residence; Hikkoshi",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ひまな",
+      "kanji": "暇な商売",
+      "definition": "dull business",
+      "jlpt": [],
+      "isCommon": false
+    },
+    {
+      "kana": "ひゃくとおばん",
+      "kanji": "１１０番",
+      "definition": "110 (police emergency telephone number in Japan)",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "ひょう",
+      "kanji": "票",
+      "definition": "vote; ballot; label",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "びょういん",
+      "kanji": "病院",
+      "definition": "hospital; clinic; doctor's office",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "びょうき",
+      "kanji": "病気",
+      "definition": "illness (usu. excluding minor ailments, e.g. common cold); disease; sickness",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ひるごはん",
+      "kanji": "昼ご飯",
+      "definition": "lunch; midday meal",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ひるま",
+      "kanji": "昼間",
+      "definition": "daytime; during the day; time from sunrise until sunset",
+      "jlpt": [
+        "jlpt-n4",
+        "jlpt-n1"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ひろば",
+      "kanji": "広場",
+      "definition": "public square; square; plaza",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ふうとう",
+      "kanji": "封筒",
+      "definition": "envelope; Envelope",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ふくろ",
+      "kanji": "袋",
+      "definition": "bag; sack; pouch",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ぶっか",
+      "kanji": "物価",
+      "definition": "prices of commodities; prices (in general); cost-of-living",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ふとん",
+      "kanji": "布団",
+      "definition": "futon; Japanese bedding consisting of a mattress and a duvet; round cushion used for Zen meditation (traditionally made of woven bulrush leaves)",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ふねで",
+      "kanji": "負",
+      "definition": "negative; minus",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "ふべんな",
+      "kanji": "不便",
+      "definition": "inconvenience; inexpediency; unhandiness",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ぶんか",
+      "kanji": "文化",
+      "definition": "culture; civilization; civilisation",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ぶんがく",
+      "kanji": "文学",
+      "definition": "literature; Literature",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ぶんぽう",
+      "kanji": "文法",
+      "definition": "grammar; Grammar",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "へいじつ",
+      "kanji": "平日",
+      "definition": "weekday; ordinary days (i.e. non-holiday); kanji radical 73",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "へたな",
+      "kanji": "下手な考え休むに似たり",
+      "definition": "it's hard to tell a poor thinker from a sleeping one; they to whom only bad ideas come might as well be asleep; inadequate ideas are worse than none at all",
+      "jlpt": [],
+      "isCommon": false
+    },
+    {
+      "kana": "べつべつに",
+      "kanji": "別々に",
+      "definition": "separately; apart; severally",
+      "jlpt": [],
+      "isCommon": false
+    },
+    {
+      "kana": "べんごし",
+      "kanji": "弁護士",
+      "definition": "lawyer; attorney; Lawyer",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "べんとう",
+      "kanji": "弁当",
+      "definition": "bento; Japanese box lunch; Bento",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "べんりな",
+      "kanji": "便利",
+      "definition": "convenient; handy; useful",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ほうげん",
+      "kanji": "方言",
+      "definition": "dialect; provincialism; Dialect",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ほうだい",
+      "kanji": "放題",
+      "definition": "(doing) as one pleases; to one's heart's content; letting (something) go unchecked",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "ぼうねんかい",
+      "kanji": "忘年会",
+      "definition": "year-end party; \"forget-the-year\" party; bōnenkai",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "ほうほう",
+      "kanji": "方法",
+      "definition": "method; way; manner",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ほうりつ",
+      "kanji": "法律",
+      "definition": "law; Statute",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ほかに",
+      "kanji": "他に",
+      "definition": "else; in addition; besides",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "ほけんしょう",
+      "kanji": "保険証",
+      "definition": "insurance card",
+      "jlpt": [],
+      "isCommon": false
+    },
+    {
+      "kana": "ほしい",
+      "kanji": "欲しい",
+      "definition": "wanting (to have); desiring; wishing for",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ほんしゃ",
+      "kanji": "本社",
+      "definition": "head office; main office; headquarters",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "ほんとう",
+      "kanji": "本当",
+      "definition": "truth; reality; actuality",
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ほんもの",
+      "kanji": "本物",
+      "definition": "genuine article; real thing; real deal",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ほんや",
+      "kanji": "本屋",
+      "definition": "bookstore; bookshop; publisher",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "まいあさ",
+      "kanji": "毎朝",
+      "definition": "every morning",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "まいしゅう",
+      "kanji": "毎週",
+      "definition": "every week",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "まいつき",
+      "kanji": "毎月",
+      "definition": "every month; each month; monthly",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "まいとし",
+      "kanji": "毎年",
+      "definition": "every year; yearly; annually",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "まいにち",
+      "kanji": "毎日",
+      "definition": "every day; daily; Every Single Day (band)",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "まいばん",
+      "kanji": "毎晩",
+      "definition": "every night",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "まえる",
+      "kanji": "まえる",
+      "definition": "(definition not found)",
+      "jlpt": [],
+      "isCommon": false
+    },
+    {
+      "kana": "まがる",
+      "kanji": "曲がる",
+      "definition": "to bend; to curve; to warp",
+      "jlpt": [
+        "jlpt-n1",
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "まける",
+      "kanji": "負ける",
+      "definition": "to lose; to be defeated; to succumb",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ませんか",
+      "kanji": "ませんか",
+      "definition": "won't (hasn't, isn't, doesn't, etc.); won't you",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "まだまだです",
+      "kanji": "未だ",
+      "definition": "still; as yet; only",
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n1",
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "まっすぐ",
+      "kanji": "真っ直ぐ",
+      "definition": "straight (ahead); direct; upright",
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "まつり",
+      "kanji": "祭り",
+      "definition": "festival; feast; matsuri",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "までに",
+      "kanji": "迄に",
+      "definition": "by; not later than; before",
+      "jlpt": [],
+      "isCommon": false
+    },
+    {
+      "kana": "まれる",
+      "kanji": "まれる",
+      "definition": "(definition not found)",
+      "jlpt": [],
+      "isCommon": false
+    },
+    {
+      "kana": "まわす",
+      "kanji": "回す",
+      "definition": "to turn; to rotate; to spin",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "まんが",
+      "kanji": "漫画",
+      "definition": "cartoon; comic; comic strip",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "みがく",
+      "kanji": "磨く",
+      "definition": "to polish; to shine; to burnish",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "みぎがわ",
+      "kanji": "右側",
+      "definition": "right side; right-hand side",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "みじかい",
+      "kanji": "短い",
+      "definition": "short; brief",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "みどり",
+      "kanji": "緑",
+      "definition": "green; greenery; verdure",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "みなさん",
+      "kanji": "皆さん",
+      "definition": "all; everyone; everybody",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "みやげ",
+      "kanji": "土産",
+      "definition": "local specialty or souvenir bought as a gift while travelling; present brought by a visitor; something unpleasant that one is given (e.g. an illness while on vacation)",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "みらい",
+      "kanji": "未来",
+      "definition": "(distant) future; future existence; world beyond the grave",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "みんな",
+      "kanji": "皆",
+      "definition": "everyone; everybody; all",
+      "jlpt": [
+        "jlpt-n4",
+        "jlpt-n3",
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "みんなで",
+      "kanji": "みんなで投票チャンネル",
+      "definition": "Everybody Votes Channel",
+      "jlpt": [],
+      "isCommon": false
+    },
+    {
+      "kana": "むかえる",
+      "kanji": "迎える",
+      "definition": "to go out to meet; to receive; to welcome",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "むかし",
+      "kanji": "昔",
+      "definition": "the old days; the past; former times",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "むずかしい",
+      "kanji": "難しい",
+      "definition": "difficult; hard; troublesome",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "むだな",
+      "kanji": "無駄",
+      "definition": "futility; waste; uselessness",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "むりな",
+      "kanji": "無理難題",
+      "definition": "unreasonable demand",
+      "jlpt": [],
+      "isCommon": false
+    },
+    {
+      "kana": "むりょう",
+      "kanji": "無料",
+      "definition": "free (of charge); gratuitous; Gratis",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "めいし",
+      "kanji": "名刺",
+      "definition": "business card; Business card",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "もういちど",
+      "kanji": "もう一度",
+      "definition": "once more; again",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "もういっぱい",
+      "kanji": "もういっぱい",
+      "definition": "already; yet; by now",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "もうすぐ",
+      "kanji": "もう直ぐ",
+      "definition": "soon; shortly; before long",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": false
+    },
+    {
+      "kana": "もくてき",
+      "kanji": "目的",
+      "definition": "purpose; goal; aim",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "もしもし",
+      "kanji": "もしもし",
+      "definition": "hello (e.g. on phone); excuse me! (when calling out to someone)",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "もちろん",
+      "kanji": "勿論",
+      "definition": "of course; certainly; naturally",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "もっていく",
+      "kanji": "持っていく",
+      "definition": "to take (something) along; to bring with one; to carry (something) away",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "もってくる",
+      "kanji": "持ってくる",
+      "definition": "to bring (something); to take along; to fetch",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "もっと",
+      "kanji": "もっと",
+      "definition": "(some) more; even more; longer",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "もみじ",
+      "kanji": "紅葉",
+      "definition": "maple (tree); red leaves (of autumn); autumn colors",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "もらう",
+      "kanji": "貰う",
+      "definition": "to receive; to take; to accept",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "もんだい",
+      "kanji": "問題",
+      "definition": "question (e.g. on a test); problem; problem (e.g. societal, political)",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "やかん",
+      "kanji": "夜間",
+      "definition": "night; nighttime",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "やきゅう",
+      "kanji": "野球",
+      "definition": "baseball; Baseball",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "やくにたつ",
+      "kanji": "役に立つ",
+      "definition": "to be helpful; to be useful",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "やこう",
+      "kanji": "夜行",
+      "definition": "night travel; walking around at night; night train",
+      "jlpt": [
+        "jlpt-n2",
+        "jlpt-n1"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "やさしい",
+      "kanji": "易しい",
+      "definition": "easy; plain; simple",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "やじるし",
+      "kanji": "矢印",
+      "definition": "arrow (symbol); (romantic) interest (for a certain person); direction (of one's attention, etc.)",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "やちん",
+      "kanji": "家賃",
+      "definition": "rent",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "やっと",
+      "kanji": "漸と",
+      "definition": "at last; finally; barely",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "やはり",
+      "kanji": "矢張り",
+      "definition": "as expected; sure enough; just as one thought",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "やめる",
+      "kanji": "辞める",
+      "definition": "to resign; to retire; to quit",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ゆうがた",
+      "kanji": "夕方",
+      "definition": "early evening (usu. from 3pm to 6pm); dusk",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ゆうびんきょく",
+      "kanji": "郵便局",
+      "definition": "post office; Post office",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ゆうめいな",
+      "kanji": "有名",
+      "definition": "famous; well-known",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ゆうりょう",
+      "kanji": "有料",
+      "definition": "fee-charging; paid; not free",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ゆっくり",
+      "kanji": "ゆっくり",
+      "definition": "slowly; unhurriedly; without haste",
+      "jlpt": [
+        "jlpt-n3",
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ゆびわ",
+      "kanji": "指輪",
+      "definition": "(finger) ring; Ring (jewellery)",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ようじ",
+      "kanji": "用事",
+      "definition": "business; things to do; engagement",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ようしょく",
+      "kanji": "洋食",
+      "definition": "Western food; Western dish; Western cooking",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "ようす",
+      "kanji": "様子",
+      "definition": "state (of affairs); situation; circumstances",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ようちえん",
+      "kanji": "幼稚園",
+      "definition": "kindergarten (in Japan, non-compulsory education from age 3 until primary school); preschool; Kindergarten",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "よかったら",
+      "kanji": "良かったら",
+      "definition": "if you like",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "よてい",
+      "kanji": "予定",
+      "definition": "plans; arrangement; schedule",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "よなか",
+      "kanji": "夜中",
+      "definition": "middle of the night; dead of night; Yonaka",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "よほう",
+      "kanji": "予報",
+      "definition": "forecast; prediction",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "らいねん",
+      "kanji": "来年",
+      "definition": "next year",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "らかい",
+      "kanji": "らかい",
+      "definition": "Rakaia; Rakaia",
+      "jlpt": [],
+      "isCommon": false
+    },
+    {
+      "kana": "らしい",
+      "kanji": "らしい",
+      "definition": "seeming ...; appearing ...; -ish",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "らせる",
+      "kanji": "らせる",
+      "definition": "(definition not found)",
+      "jlpt": [],
+      "isCommon": false
+    },
+    {
+      "kana": "りゆう",
+      "kanji": "理由",
+      "definition": "reason; grounds; pretext",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "りゅうがくせい",
+      "kanji": "留学生",
+      "definition": "overseas student; exchange student",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "りょう",
+      "kanji": "量",
+      "definition": "quantity; amount; volume",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "りょうしん",
+      "kanji": "両親",
+      "definition": "parents; both parents",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "りょうほう",
+      "kanji": "両方",
+      "definition": "both; both sides; both parties",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "りょうり",
+      "kanji": "料理",
+      "definition": "cooking; cookery; cuisine",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "りょかん",
+      "kanji": "旅館",
+      "definition": "ryokan; traditional Japanese inn; Ryokan (Japanese inn)",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "りょこう",
+      "kanji": "旅行",
+      "definition": "travel; trip; journey",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "りんご",
+      "kanji": "林檎",
+      "definition": "apple (fruit); apple tree (Malus pumila); Apple",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "るだけ",
+      "kanji": "るだけ",
+      "definition": "verb-forming suffix; Ru (kana)",
+      "jlpt": [],
+      "isCommon": false
+    },
+    {
+      "kana": "れきし",
+      "kanji": "歴史",
+      "definition": "history; History",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "れんきゅう",
+      "kanji": "連休",
+      "definition": "consecutive holidays",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ろうか",
+      "kanji": "廊下",
+      "definition": "corridor; hallway; passageway",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ろんぶん",
+      "kanji": "論文",
+      "definition": "thesis; essay; treatise",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "わかい",
+      "kanji": "若い",
+      "definition": "young; youthful; immature",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "わかりました",
+      "kanji": "分かる",
+      "definition": "to understand; to comprehend; to grasp",
+      "jlpt": [
+        "jlpt-n2",
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "わかります",
+      "kanji": "分かる",
+      "definition": "to understand; to comprehend; to grasp",
+      "jlpt": [
+        "jlpt-n2",
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "わしょく",
+      "kanji": "和食",
+      "definition": "Japanese food; Japanese dish; Japanese cuisine",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "わすれもの",
+      "kanji": "忘れ物",
+      "definition": "lost article; thing left behind; leaving something behind",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "わすれる",
+      "kanji": "忘れる",
+      "definition": "to forget; to leave carelessly; to be forgetful of",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "わたし",
+      "kanji": "私",
+      "definition": "I; me",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "わたり",
+      "kanji": "渡り",
+      "definition": "crossing; passage; transit",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "わりびき",
+      "kanji": "割引",
+      "definition": "discount; reduction; rebate",
+      "jlpt": [
+        "jlpt-n2",
+        "jlpt-n1"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "わるい",
+      "kanji": "悪い",
+      "definition": "bad; poor; undesirable",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "をください",
+      "kanji": "をください",
+      "definition": "indicates direct object of action; indicates subject of causative expression; indicates an area traversed",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "をつけて",
+      "kanji": "をつけて",
+      "definition": "indicates direct object of action; indicates subject of causative expression; indicates an area traversed",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "をとる",
+      "kanji": "をとる",
+      "definition": "indicates direct object of action; indicates subject of causative expression; indicates an area traversed",
+      "jlpt": [],
+      "isCommon": true
+    }
+  ],
+  "katakana": [
+    {
+      "kana": "アイディア",
+      "kanji": "アイディア",
+      "definition": "idea",
+      "jlpt": [
+        "jlpt-n2",
+        "jlpt-n1"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "アニメ",
+      "kanji": "アニメ",
+      "definition": "animation; animated film; animated cartoon",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "アルバイト",
+      "kanji": "アルバイト",
+      "definition": "part-time job; side job; part-time worker",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "イラスト",
+      "kanji": "イラスト",
+      "definition": "illustration; picture; sketch",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "インスタント",
+      "kanji": "インスタント",
+      "definition": "instant",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "インフルエンザ",
+      "kanji": "インフルエンザ",
+      "definition": "influenza; flu; Influenza",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "エアコン",
+      "kanji": "エアコン",
+      "definition": "air conditioner; air conditioning; aircon",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "エンジン",
+      "kanji": "エンジン",
+      "definition": "engine; Engine",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ガイドブック",
+      "kanji": "ガイドブック",
+      "definition": "guidebook",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ガソリン",
+      "kanji": "ガソリン",
+      "definition": "gasoline; petrol; Gasoline",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "カタログ",
+      "kanji": "型録",
+      "definition": "catalog; catalogue",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "カット",
+      "kanji": "カット",
+      "definition": "cut; cutting; omission",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "カメラ",
+      "kanji": "カメラ",
+      "definition": "camera; Camera",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "カラオケ",
+      "kanji": "カラオケ",
+      "definition": "karaoke; Karaoke",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "キャンセル",
+      "kanji": "キャンセル",
+      "definition": "cancellation; cancelling (a person, e.g. for an inflammatory remark); cancel culture",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "キャンプ",
+      "kanji": "キャンプ",
+      "definition": "camp; camping; Camping",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "クラシック",
+      "kanji": "クラシック",
+      "definition": "classical music; classic; classical",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "クラス",
+      "kanji": "クラス",
+      "definition": "class; Kras (Slovenia); Crass",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "グラス",
+      "kanji": "グラス",
+      "definition": "glass (drinking vessel); glass (material); glasses (eyewear)",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "クリスマス",
+      "kanji": "クリスマス",
+      "definition": "Christmas; Christmas",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "コンテスト",
+      "kanji": "コンテスト",
+      "definition": "contest; Contest",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "コンビニ",
+      "kanji": "コンビニ",
+      "definition": "convenience store",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "サイズ",
+      "kanji": "サイズ",
+      "definition": "size; Size",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "サイン",
+      "kanji": "サイン",
+      "definition": "autograph; signature; sign",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "サラダ",
+      "kanji": "サラダ",
+      "definition": "salad; Salad",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "サンダル",
+      "kanji": "サンダル",
+      "definition": "sandal; Sandal",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ジャズ",
+      "kanji": "ジャズ",
+      "definition": "jazz; Jazz",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ジョギング",
+      "kanji": "ジョギング",
+      "definition": "jogging; Jogging",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "スイッチ",
+      "kanji": "スイッチ",
+      "definition": "switch; switch; points",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ストレス",
+      "kanji": "ストレス",
+      "definition": "stress; Stress",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ソフト",
+      "kanji": "ソフト",
+      "definition": "soft; software; soft hat",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ダイエット",
+      "kanji": "ダイエット",
+      "definition": "diet; dieting; losing weight (through dieting, exercise, etc.)",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "タオル",
+      "kanji": "タオル",
+      "definition": "towel; Towel",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ダンス",
+      "kanji": "ダンス",
+      "definition": "dance; dancing; Dance",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "チェック",
+      "kanji": "チェック",
+      "definition": "check (pattern); plaid; check",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "チケット",
+      "kanji": "チケット",
+      "definition": "ticket",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "チャレンジ",
+      "kanji": "チャレンジ",
+      "definition": "taking on (a challenge); attempt; try",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "チャンス",
+      "kanji": "チャンス",
+      "definition": "chance; opportunity; Chance",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "テキスト",
+      "kanji": "テキスト",
+      "definition": "text; textbook; Text (literary theory)",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "デザイン",
+      "kanji": "デザイン",
+      "definition": "design; Design",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "テスト",
+      "kanji": "テスト",
+      "definition": "test (of ability, knowledge, etc.); exam; examination",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "テレビ",
+      "kanji": "テレビ",
+      "definition": "television; TV; TV program",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ドラマ",
+      "kanji": "ドラマ",
+      "definition": "(non-documentary) television series; TV drama; teledrama",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "バイク",
+      "kanji": "バイク",
+      "definition": "motorcycle; motorbike; bike",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "パソコン",
+      "kanji": "パソコン",
+      "definition": "personal computer; PC",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "パンダ",
+      "kanji": "パンダ",
+      "definition": "panda",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "パンフレット",
+      "kanji": "パンフレット",
+      "definition": "pamphlet; brochure; leaflet",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "ピアノ",
+      "kanji": "ピアノ",
+      "definition": "piano (instrument); piano (dynamic); Piano",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ビタミン",
+      "kanji": "ビタミン",
+      "definition": "vitamin; Vitamin",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ビデオ",
+      "kanji": "ビデオ",
+      "definition": "video (esp. a televised image); videotape; VHS tape",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ファイル",
+      "kanji": "ファイル",
+      "definition": "file (for holding papers); file (collection of documents); filing",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "プリント",
+      "kanji": "プリント",
+      "definition": "print; printing; (printed) copy",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "プレゼント",
+      "kanji": "プレゼント",
+      "definition": "present; gift",
+      "jlpt": [
+        "jlpt-n4"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "フロント",
+      "kanji": "フロント",
+      "definition": "front (aspect, weather, war-front, etc.); reception (e.g. in a hotel); front desk",
+      "jlpt": [
+        "jlpt-n1"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ベッド",
+      "kanji": "ベッド",
+      "definition": "bed; Bed",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ペット",
+      "kanji": "ペット",
+      "definition": "pet; trumpet; Pet",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ペットボトル",
+      "kanji": "ＰＥＴボトル",
+      "definition": "plastic bottle (made of polyethylene terephthalate); PET bottle",
+      "jlpt": [],
+      "isCommon": false
+    },
+    {
+      "kana": "ポケット",
+      "kanji": "ポケット",
+      "definition": "pocket; Pocket",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ポスト",
+      "kanji": "ポスト",
+      "definition": "postbox; mailbox; mail box",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ボタン",
+      "kanji": "釦",
+      "definition": "button (clothing); push-button; button",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ポップス",
+      "kanji": "ポップス",
+      "definition": "pop music; popular music",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "ホテル",
+      "kanji": "ホテル",
+      "definition": "hotel; Hotel",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ボランティア",
+      "kanji": "ボランティア",
+      "definition": "volunteer; Volunteering",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "マンション",
+      "kanji": "マンション",
+      "definition": "condominium (usu. mid or high-rise); apartment building; apartment house",
+      "jlpt": [
+        "jlpt-n2"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ミルク",
+      "kanji": "ミルク",
+      "definition": "milk; infant formula; formula",
+      "jlpt": [
+        "jlpt-n3"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ラジオ",
+      "kanji": "ラジオ",
+      "definition": "radio; Radio",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ラッシュ",
+      "kanji": "ラッシュ",
+      "definition": "rush (of people or activity); rush (sudden forward motion); rush hour",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "リサイクル",
+      "kanji": "リサイクル",
+      "definition": "recycling; Recycling",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "リュック",
+      "kanji": "リュック",
+      "definition": "rucksack; knapsack; backpack",
+      "jlpt": [],
+      "isCommon": false
+    },
+    {
+      "kana": "レストラン",
+      "kanji": "レストラン",
+      "definition": "restaurant (esp. Western-style); Restaurant",
+      "jlpt": [
+        "jlpt-n5"
+      ],
+      "isCommon": true
+    },
+    {
+      "kana": "ロック",
+      "kanji": "ロック",
+      "definition": "lock; lock (in rugby); lock forward",
+      "jlpt": [],
+      "isCommon": true
+    },
+    {
+      "kana": "ロボット",
+      "kanji": "ロボット",
+      "definition": "robot; (mere) puppet; pawn",
+      "jlpt": [],
+      "isCommon": true
+    }
+  ],
+  "generatedAt": "2025-10-30T03:38:34.845Z"
+}
